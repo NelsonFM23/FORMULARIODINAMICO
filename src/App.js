@@ -1,4 +1,3 @@
-import { Button, Badge } from 'react-bootstrap';
 import NavBarMenu from './components/NavBarMenu';
 import Introduction from './components/Introduction';
 import Services from './components/Services/Services';

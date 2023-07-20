@@ -4,8 +4,7 @@ import {
     Col,
     Container,
     FloatingLabel,
-    Form,
-    Modal,
+    Form,    
     Row
 }  from "react-bootstrap";
 import Resume from "../Resume";
